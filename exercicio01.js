@@ -26,7 +26,7 @@ console.log(
     name + ' ' +  'pesa' + ' ' +  weight + ' ' +  'kg e tem' + ' ' +  height + ' ' +  'cm de altura. Seu imc é, portanto,' + ' ' +  imc + '' + '.')
 
 /* também é possível utilizar strings
-    Isto é: usar ´(crase) e, nas variáveis, ${}
+    Isto é: usar ` (crase) e, nas variáveis, ${}
     Veja abaixo o exemplo
 */
 console.log(
